@@ -1,2 +1,2 @@
 dist: jammy
-script: echo "testing1" 
+script: echo "testing12" 
